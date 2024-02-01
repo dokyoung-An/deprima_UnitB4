@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.8/20017
 // Filename: ???? ???B_C.ggsk
-// Generated 2024-01-31T11:17:37
+// Generated 2024-02-01T14:18:33
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_roomchoice', 2, false, { ignoreInState: 0  });
@@ -6375,7 +6375,7 @@ function pano2vrSkin(player,base) {
 		el.ggId="Map 1";
 		el.ggDx=0;
 		el.ggDy=0;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1.1,sy:1.1,def:'' };
+		el.ggParameter={ rx:0,ry:0,a:0,sx:0.8,sy:0.8,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_map ";
 		el.ggType='map';
@@ -6921,7 +6921,7 @@ function pano2vrSkin(player,base) {
 		el.ggId="Map 1-\ubaa8\ubc14\uc77c";
 		el.ggDx=0;
 		el.ggDy=0;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggParameter={ rx:0,ry:0,a:0,sx:0.73,sy:0.73,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_map ";
 		el.ggType='map';
@@ -6938,6 +6938,7 @@ function pano2vrSkin(player,base) {
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
+		el.style.transform=parameterToTransform(el.ggParameter);
 		me._map_10.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
 				return this.parentNode.ggIsActive();
@@ -7885,35 +7886,6 @@ function pano2vrSkin(player,base) {
 			}
 			return player.getCurrentNode();
 		}
-		me._map_1.logicBlock_scaling = function() {
-			var newLogicStateScaling;
-			if (
-				((player.getViewerSize().width <= 460))
-			)
-			{
-				newLogicStateScaling = 0;
-			}
-			else {
-				newLogicStateScaling = -1;
-			}
-			if (me._map_1.ggCurrentLogicStateScaling != newLogicStateScaling) {
-				me._map_1.ggCurrentLogicStateScaling = newLogicStateScaling;
-				me._map_1.style.transition='transform 0s';
-				if (me._map_1.ggCurrentLogicStateScaling == 0) {
-					me._map_1.ggParameter.sx = 1.2;
-					me._map_1.ggParameter.sy = 1.2;
-					me._map_1.style.transform=parameterToTransform(me._map_1.ggParameter);
-					skin.updateSize(me._map_1);
-				}
-				else {
-					me._map_1.ggParameter.sx = 1;
-					me._map_1.ggParameter.sy = 1;
-					me._map_1.style.transform=parameterToTransform(me._map_1.ggParameter);
-					skin.updateSize(me._map_1);
-				}
-			}
-		}
-		me._map_1.logicBlock_scaling();
 		me._map_1.logicBlock_visible = function() {
 			var newLogicStateVisible;
 			if (
@@ -7927,7 +7899,7 @@ function pano2vrSkin(player,base) {
 			}
 			if (me._map_1.ggCurrentLogicStateVisible != newLogicStateVisible) {
 				me._map_1.ggCurrentLogicStateVisible = newLogicStateVisible;
-				me._map_1.style.transition='transform 0s';
+				me._map_1.style.transition='';
 				if (me._map_1.ggCurrentLogicStateVisible == 0) {
 					me._map_1.style.visibility=(Number(me._map_1.style.opacity)>0||!me._map_1.style.opacity)?'inherit':'hidden';
 					if (me._map_1.ggMapNotLoaded && me._map_1.ggInitMap) {
@@ -7944,7 +7916,6 @@ function pano2vrSkin(player,base) {
 			}
 		}
 		me._map_1.logicBlock_visible();
-		me._map_1.ggCurrentLogicStateScaling = -1;
 		me._map_1.ggCurrentLogicStateVisible = -1;
 		me._map_1.ggUpdateConditionResize=function () {
 			var mapDetails = player.getMapDetails(me._map_1.ggMapId);
@@ -13888,7 +13859,6 @@ function pano2vrSkin(player,base) {
 			me._map_1.ggMarkerInstances=[];
 			me._map_1.ggSimpleFloorplanMarkerArray=[];
 		}
-		me._map_1.logicBlock_scaling();
 		me._map_1.logicBlock_visible();
 		me._map_2.ggMarkerInstances=[];
 		me._map_2.ggLastNodeId=null;
@@ -14661,7 +14631,6 @@ function pano2vrSkin(player,base) {
 			me.__38.logicBlock_size();
 			me.__38.logicBlock_scaling();
 			me.__40.logicBlock_size();
-			me._map_1.logicBlock_scaling();
 			me._map_2.logicBlock_scaling();
 			me.__18.logicBlock_scaling();
 			me.__10.logicBlock_scaling();
