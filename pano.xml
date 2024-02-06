@@ -44,7 +44,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-121.264" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node1" title="거실">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-121.264" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node1" title="거실">
       <mapcoords x="1.40625" y_floorplan_percent="54" y="-1.48315" mapid="FloorPlan01" x_floorplan_percent="51.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -84,7 +84,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="88.8088" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node2" title="거실">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="88.8088" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node2" title="거실">
       <mapcoords x="0.637207" y_floorplan_percent="36.4" y="-0.999756" mapid="FloorPlan01" x_floorplan_percent="23.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -120,7 +120,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-150.296" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node7" title="주방">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-150.296" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node7" title="주방">
       <mapcoords x="2.05444" y_floorplan_percent="58.6" y="-1.6095" mapid="FloorPlan01" x_floorplan_percent="74.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -157,7 +157,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-265.418" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node8" title="주방">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-265.418" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node8" title="주방">
       <mapcoords x="2.04346" y_floorplan_percent="38" y="-1.0437" mapid="FloorPlan01" x_floorplan_percent="74.4"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -195,7 +195,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="29.9155" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node5" title="보조주방">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="29.9155" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node5" title="보조주방">
       <mapcoords x="2.3291" y_floorplan_percent="68.2" y="-1.87317" mapid="FloorPlan01" x_floorplan_percent="84.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -226,7 +226,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-78.584" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node6" title="복도">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-78.584" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node6" title="복도">
       <mapcoords x="1.39526" y_floorplan_percent="72.8" y="-1.99951" mapid="FloorPlan01" x_floorplan_percent="50.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -262,7 +262,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-97.1652" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node3" title="공용욕실">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-97.1652" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node3" title="공용욕실">
       <mapcoords x="1.08215" y_floorplan_percent="66.6" y="-1.82922" mapid="FloorPlan01" x_floorplan_percent="39.4"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -295,7 +295,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-132.543" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node9" title="안방">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-132.543" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node9" title="안방">
       <mapcoords x="1.203" y_floorplan_percent="25" y="-0.686646" mapid="FloorPlan01" x_floorplan_percent="43.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -328,7 +328,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-52.4173" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node10" title="안방">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-52.4173" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node10" title="안방">
       <mapcoords x="0.681152" y_floorplan_percent="25.6" y="-0.703125" mapid="FloorPlan01" x_floorplan_percent="24.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -360,7 +360,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-60.9899" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node4" title="드레스룸">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-60.9899" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node4" title="드레스룸">
       <mapcoords x="1.54358" y_floorplan_percent="24.6" y="-0.675659" mapid="FloorPlan01" x_floorplan_percent="56.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -393,7 +393,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-88.3555" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node11" title="안방욕실">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-88.3555" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node11" title="안방욕실">
       <mapcoords x="2.27966" y_floorplan_percent="16.8" y="-0.461426" mapid="FloorPlan01" x_floorplan_percent="83"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -424,7 +424,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="-316.951" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node18" title="안방 파우더룸">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="-316.951" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node18" title="안방 파우더룸">
       <mapcoords x="2.02698" y_floorplan_percent="24.4" y="-0.670166" mapid="FloorPlan01" x_floorplan_percent="73.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -457,7 +457,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-57.9765" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node17" title="침실2">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-57.9765" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node17" title="침실2">
       <mapcoords x="2.62573" y_floorplan_percent="25" y="-0.686646" mapid="FloorPlan01" x_floorplan_percent="95.6"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -489,7 +489,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-166.279" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node16" title="침실3">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-166.279" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node16" title="침실3">
       <mapcoords x="0.686646" y_floorplan_percent="68.4" y="-1.87866" mapid="FloorPlan01" x_floorplan_percent="25"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -520,7 +520,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-142.228" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node12" title="침실4">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-142.228" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node12" title="침실4">
       <mapcoords x="0.692139" y_floorplan_percent="86" y="-2.36206" mapid="FloorPlan01" x_floorplan_percent="25.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -554,7 +554,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-39.3899" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node13" title="침실4">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="" longitude="0.00000000" heading="-39.3899" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node13" title="침실4">
       <mapcoords x="0.307617" y_floorplan_percent="87.4" y="-2.40051" mapid="FloorPlan01" x_floorplan_percent="11.2"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -587,7 +587,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="90.0999" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node15" title="침실4 파우더룸">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="90.0999" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node15" title="침실4 파우더룸">
       <mapcoords x="1.00525" y_floorplan_percent="87" y="-2.38953" mapid="FloorPlan01" x_floorplan_percent="36.6"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -620,7 +620,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="18.424" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node14" title="침실4 욕실">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="넓게" datetime="" longitude="0.00000000" heading="18.424" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node14" title="침실4 욕실">
       <mapcoords x="1.4447" y_floorplan_percent="87.6" y="-2.40601" mapid="FloorPlan01" x_floorplan_percent="52.6"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -653,7 +653,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="2023. 11. 10. 오전 9:41" longitude="0.00000000" heading="90.1841" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node20" title="테라스">
+    <userdata source="" tags="메인|타운하우스" customnodeid="" info="" datetime="2023. 11. 10. 오전 9:41" longitude="0.00000000" heading="90.1841" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node20" title="테라스">
       <mapcoords x="0.373535" y_floorplan_percent="19.6" y="-0.53833" mapid="FloorPlan01" x_floorplan_percent="13.6"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
@@ -686,7 +686,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fovstereographic="330" scaletofit="1" fov="140" tilt="90" pan="360"/>
     </view>
-    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="2023. 11. 10. 오전 9:41" longitude="0.00000000" heading="-85.8086" description="1층" latitude="0.00000000" author="" comment="연립형" copyright="124m²" nodeid="node21" title="테라스">
+    <userdata source="" tags="타운하우스" customnodeid="" info="" datetime="2023. 11. 10. 오전 9:41" longitude="0.00000000" heading="-85.8086" description="1층" latitude="0.00000000" author="" comment="연립형B" copyright="124m²" nodeid="node21" title="테라스">
       <mapcoords x="0.324097" y_floorplan_percent="53.2" y="-1.46118" mapid="FloorPlan01" x_floorplan_percent="11.8"/>
     </userdata>
     <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
